@@ -1,0 +1,434 @@
+########################################
+Learning:  portuguese
+Learning:  german
+Learning:  english
+Learning:  french
+Learning:  spanish
+Learning:  italian
+I love you.
+	1.) english:  probability 99.7508862408%
+	2.) spanish:  probability 0.2349588169%
+	3.) italian:  probability 0.0062189156%
+	4.) portuguese:  probability 0.0053503846%
+	5.) french:  probability 0.0024905048%
+	6.) german:  probability 0.0000951374%
+Je t'aime.
+	1.) french:  probability 66.2564373779%
+	2.) english:  probability 33.5486866464%
+	3.) german:  probability 0.1653481129%
+	4.) portuguese:  probability 0.0154875636%
+	5.) italian:  probability 0.0128738584%
+	6.) spanish:  probability 0.0011664410%
+Te amo.
+	1.) portuguese:  probability 56.1430537382%
+	2.) italian:  probability 16.5461099158%
+	3.) spanish:  probability 9.1590037883%
+	4.) english:  probability 8.4388712655%
+	5.) french:  probability 7.9973042038%
+	6.) german:  probability 1.7156570884%
+Ich liebe dich.
+	1.) german:  probability 99.9998958583%
+	2.) english:  probability 0.0000773875%
+	3.) spanish:  probability 0.0000164387%
+	4.) italian:  probability 0.0000083418%
+	5.) french:  probability 0.0000019728%
+	6.) portuguese:  probability 0.0000000008%
+Eu te amo.
+	1.) french:  probability 52.9452678287%
+	2.) portuguese:  probability 46.1745878255%
+	3.) italian:  probability 0.4369467047%
+	4.) spanish:  probability 0.2340046355%
+	5.) german:  probability 0.2085768180%
+	6.) english:  probability 0.0006161876%
+Ti amo.
+	1.) italian:  probability 72.1111718114%
+	2.) portuguese:  probability 19.0916194260%
+	3.) english:  probability 3.5904800553%
+	4.) spanish:  probability 2.5786019323%
+	5.) french:  probability 2.4239424770%
+	6.) german:  probability 0.2041842981%
+There are twenty-four hours in a single day.
+	1.) english:  probability 99.9999999343%
+	2.) german:  probability 0.0000000657%
+	3.) french:  probability 0.0000000000%
+	4.) portuguese:  probability 0.0000000000%
+	5.) spanish:  probability 0.0000000000%
+	6.) italian:  probability 0.0000000000%
+Es gibt Zwanzig vier Stunden an einem einzelnen Tag.
+	1.) german:  probability 100.0000000000%
+	2.) french:  probability 0.0000000000%
+	3.) italian:  probability 0.0000000000%
+	4.) english:  probability 0.0000000000%
+	5.) spanish:  probability 0.0000000000%
+	6.) portuguese:  probability 0.0000000000%
+Il y a vingt-quatre heures en un seul jour.
+	1.) french:  probability 99.9963984849%
+	2.) german:  probability 0.0019858736%
+	3.) spanish:  probability 0.0016152833%
+	4.) english:  probability 0.0000003582%
+	5.) portuguese:  probability 0.0000000000%
+	6.) italian:  probability 0.0000000000%
+Ci sono venti quattro ora in un singolo giorno.
+	1.) italian:  probability 99.9999971783%
+	2.) spanish:  probability 0.0000027895%
+	3.) portuguese:  probability 0.0000000304%
+	4.) english:  probability 0.0000000017%
+	5.) french:  probability 0.0000000001%
+	6.) german:  probability 0.0000000000%
+Ha vinte quatro horas em um unico dia.
+	1.) portuguese:  probability 99.9999894361%
+	2.) spanish:  probability 0.0000095175%
+	3.) italian:  probability 0.0000010462%
+	4.) german:  probability 0.0000000001%
+	5.) french:  probability 0.0000000000%
+	6.) english:  probability 0.0000000000%
+Hay veinte cuatro horas en un solo dia.
+	1.) spanish:  probability 99.9893457473%
+	2.) english:  probability 0.0106523206%
+	3.) italian:  probability 0.0000012957%
+	4.) portuguese:  probability 0.0000004610%
+	5.) german:  probability 0.0000001721%
+	6.) french:  probability 0.0000000033%
+A cat.
+	1.) italian:  probability 55.7076581225%
+	2.) spanish:  probability 24.2325743825%
+	3.) portuguese:  probability 15.5009739470%
+	4.) english:  probability 3.9216697405%
+	5.) french:  probability 0.6370413426%
+	6.) german:  probability 0.0000824649%
+Eine Katze.
+	1.) german:  probability 99.9998781747%
+	2.) english:  probability 0.0000685347%
+	3.) french:  probability 0.0000401778%
+	4.) italian:  probability 0.0000116949%
+	5.) spanish:  probability 0.0000010177%
+	6.) portuguese:  probability 0.0000004001%
+Un chat.
+	1.) german:  probability 42.1513859690%
+	2.) italian:  probability 29.2687545134%
+	3.) english:  probability 15.3184444949%
+	4.) spanish:  probability 8.2927869004%
+	5.) french:  probability 4.9627546285%
+	6.) portuguese:  probability 0.0058734938%
+Un gatto.
+	1.) italian:  probability 70.2999547249%
+	2.) german:  probability 21.9508238862%
+	3.) english:  probability 5.0181332147%
+	4.) french:  probability 2.5765410224%
+	5.) spanish:  probability 0.1540919484%
+	6.) portuguese:  probability 0.0004552033%
+Um gato.
+	1.) portuguese:  probability 76.0387681782%
+	2.) german:  probability 16.7933730073%
+	3.) italian:  probability 4.8246090959%
+	4.) english:  probability 2.2724506609%
+	5.) spanish:  probability 0.0502233816%
+	6.) french:  probability 0.0205756762%
+Un gato.
+	1.) italian:  probability 33.9941808930%
+	2.) spanish:  probability 32.6878110401%
+	3.) german:  probability 21.8381433309%
+	4.) english:  probability 6.2844931914%
+	5.) french:  probability 5.0952581144%
+	6.) portuguese:  probability 0.1001134302%
+The red cat sleeps.
+	1.) english:  probability 99.9950255393%
+	2.) french:  probability 0.0049716813%
+	3.) spanish:  probability 0.0000025815%
+	4.) german:  probability 0.0000001372%
+	5.) italian:  probability 0.0000000604%
+	6.) portuguese:  probability 0.0000000003%
+Der rote Katzeschlaf.
+	1.) german:  probability 99.9999995459%
+	2.) english:  probability 0.0000003856%
+	3.) italian:  probability 0.0000000601%
+	4.) spanish:  probability 0.0000000041%
+	5.) french:  probability 0.0000000041%
+	6.) portuguese:  probability 0.0000000002%
+Les sommeils rouges de chat.
+	1.) french:  probability 99.4447192221%
+	2.) german:  probability 0.4050981934%
+	3.) english:  probability 0.1501779692%
+	4.) portuguese:  probability 0.0000045170%
+	5.) spanish:  probability 0.0000000982%
+	6.) italian:  probability 0.0000000002%
+I sonni rossi del gatto.
+	1.) italian:  probability 99.9999626989%
+	2.) french:  probability 0.0000362756%
+	3.) german:  probability 0.0000004826%
+	4.) english:  probability 0.0000004566%
+	5.) spanish:  probability 0.0000000811%
+	6.) portuguese:  probability 0.0000000051%
+Os sonos vermelhos do gato.
+	1.) portuguese:  probability 99.7853792093%
+	2.) spanish:  probability 0.2145813058%
+	3.) english:  probability 0.0000394524%
+	4.) french:  probability 0.0000000296%
+	5.) german:  probability 0.0000000016%
+	6.) italian:  probability 0.0000000012%
+Los suenos rojos del gato.
+	1.) spanish:  probability 99.7267759990%
+	2.) portuguese:  probability 0.2731301670%
+	3.) french:  probability 0.0000800516%
+	4.) english:  probability 0.0000137802%
+	5.) german:  probability 0.0000000019%
+	6.) italian:  probability 0.0000000001%
+All legislative Powers herein granted shall be vested in a Congress.
+	1.) english:  probability 99.9457285141%
+	2.) german:  probability 0.0542079099%
+	3.) italian:  probability 0.0000632107%
+	4.) french:  probability 0.0000003653%
+	5.) spanish:  probability 0.0000000000%
+	6.) portuguese:  probability 0.0000000000%
+Alle in dieser Verfassung verliehene gesetzgebende Gewalt wird dem Kongress.
+	1.) german:  probability 100.0000000000%
+	2.) english:  probability 0.0000000000%
+	3.) french:  probability 0.0000000000%
+	4.) italian:  probability 0.0000000000%
+	5.) spanish:  probability 0.0000000000%
+	6.) portuguese:  probability 0.0000000000%
+Tous les pouvoirs legislatifs accordes par cette Constitution seront attribues a un Congres.
+	1.) french:  probability 99.9999999994%
+	2.) english:  probability 0.0000000006%
+	3.) spanish:  probability 0.0000000000%
+	4.) portuguese:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Tutti i poteri legislativi quivi concessi sono conferiti al Congresso.
+	1.) italian:  probability 100.0000000000%
+	2.) french:  probability 0.0000000000%
+	3.) portuguese:  probability 0.0000000000%
+	4.) spanish:  probability 0.0000000000%
+	5.) english:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Todos os poderes legislativos conferidos por esta Constituicao serao confiados a um Congresso.
+	1.) portuguese:  probability 99.9999999848%
+	2.) spanish:  probability 0.0000000152%
+	3.) italian:  probability 0.0000000000%
+	4.) english:  probability 0.0000000000%
+	5.) french:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Todas las Facultades legislativas otorgadas en la presente seran conferidas a un Congreso.
+	1.) spanish:  probability 99.9999976198%
+	2.) french:  probability 0.0000023785%
+	3.) portuguese:  probability 0.0000000017%
+	4.) english:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+################# EXTENSION #######################
+Learning:  portuguese (extended)
+Learning:  german (extended)
+Learning:  english (extended)
+Learning:  french (extended)
+Learning:  spanish (extended)
+Learning:  italian (extended)
+I love you.
+	1.) english:  probability 99.9995587828%
+	2.) italian:  probability 0.0003814689%
+	3.) spanish:  probability 0.0000596114%
+	4.) french:  probability 0.0000001339%
+	5.) portuguese:  probability 0.0000000030%
+	6.) german:  probability 0.0000000000%
+Je t'aime.
+	1.) french:  probability 99.9965841309%
+	2.) english:  probability 0.0032631000%
+	3.) portuguese:  probability 0.0001430976%
+	4.) italian:  probability 0.0000096081%
+	5.) german:  probability 0.0000000606%
+	6.) spanish:  probability 0.0000000028%
+Te amo.
+	1.) spanish:  probability 64.5346665353%
+	2.) italian:  probability 15.1818464129%
+	3.) portuguese:  probability 12.8210628624%
+	4.) french:  probability 6.7707460936%
+	5.) german:  probability 0.4087002493%
+	6.) english:  probability 0.2829778465%
+Ich liebe dich.
+	1.) german:  probability 99.9999996506%
+	2.) italian:  probability 0.0000002364%
+	3.) english:  probability 0.0000001019%
+	4.) spanish:  probability 0.0000000110%
+	5.) portuguese:  probability 0.0000000001%
+	6.) french:  probability 0.0000000000%
+Eu te amo.
+	1.) french:  probability 70.8835916336%
+	2.) portuguese:  probability 28.6478330830%
+	3.) spanish:  probability 0.2413668071%
+	4.) italian:  probability 0.1235132618%
+	5.) english:  probability 0.1003309162%
+	6.) german:  probability 0.0033642983%
+Ti amo.
+	1.) italian:  probability 98.9035764712%
+	2.) spanish:  probability 0.9032122880%
+	3.) french:  probability 0.1540743556%
+	4.) portuguese:  probability 0.0381829257%
+	5.) german:  probability 0.0007033458%
+	6.) english:  probability 0.0002506138%
+There are twenty-four hours in a single day.
+	1.) english:  probability 100.0000000000%
+	2.) french:  probability 0.0000000000%
+	3.) german:  probability 0.0000000000%
+	4.) portuguese:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Es gibt Zwanzig vier Stunden an einem einzelnen Tag.
+	1.) german:  probability 100.0000000000%
+	2.) english:  probability 0.0000000000%
+	3.) french:  probability 0.0000000000%
+	4.) italian:  probability 0.0000000000%
+	5.) portuguese:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Il y a vingt-quatre heures en un seul jour.
+	1.) french:  probability 100.0000000000%
+	2.) portuguese:  probability 0.0000000000%
+	3.) english:  probability 0.0000000000%
+	4.) german:  probability 0.0000000000%
+	5.) spanish:  probability 0.0000000000%
+	6.) italian:  probability 0.0000000000%
+Ci sono venti quattro ora in un singolo giorno.
+	1.) italian:  probability 100.0000000000%
+	2.) portuguese:  probability 0.0000000000%
+	3.) spanish:  probability 0.0000000000%
+	4.) french:  probability 0.0000000000%
+	5.) english:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Ha vinte quatro horas em um unico dia.
+	1.) portuguese:  probability 100.0000000000%
+	2.) italian:  probability 0.0000000000%
+	3.) spanish:  probability 0.0000000000%
+	4.) english:  probability 0.0000000000%
+	5.) german:  probability 0.0000000000%
+	6.) french:  probability 0.0000000000%
+Hay veinte cuatro horas en un solo dia.
+	1.) spanish:  probability 100.0000000000%
+	2.) portuguese:  probability 0.0000000000%
+	3.) italian:  probability 0.0000000000%
+	4.) french:  probability 0.0000000000%
+	5.) english:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+A cat.
+	1.) italian:  probability 38.9679542477%
+	2.) french:  probability 22.1860684852%
+	3.) portuguese:  probability 19.1258554562%
+	4.) spanish:  probability 18.6961719642%
+	5.) english:  probability 1.0228828331%
+	6.) german:  probability 0.0010670135%
+Eine Katze.
+	1.) german:  probability 99.9999999998%
+	2.) english:  probability 0.0000000002%
+	3.) french:  probability 0.0000000000%
+	4.) portuguese:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Un chat.
+	1.) french:  probability 75.4366842668%
+	2.) italian:  probability 19.8387104569%
+	3.) english:  probability 3.4281112310%
+	4.) german:  probability 1.1427925053%
+	5.) spanish:  probability 0.1049670597%
+	6.) portuguese:  probability 0.0487344804%
+Un gatto.
+	1.) italian:  probability 99.6299210909%
+	2.) french:  probability 0.2538094217%
+	3.) german:  probability 0.1095795583%
+	4.) english:  probability 0.0064353281%
+	5.) portuguese:  probability 0.0002532826%
+	6.) spanish:  probability 0.0000013184%
+Um gato.
+	1.) german:  probability 85.5423223727%
+	2.) portuguese:  probability 14.1315011778%
+	3.) italian:  probability 0.2378541616%
+	4.) english:  probability 0.0872127483%
+	5.) spanish:  probability 0.0005603163%
+	6.) french:  probability 0.0005492233%
+Un gato.
+	1.) italian:  probability 80.9290642435%
+	2.) german:  probability 8.6855389744%
+	3.) spanish:  probability 8.3602234729%
+	4.) french:  probability 1.9480258018%
+	5.) english:  probability 0.0469419333%
+	6.) portuguese:  probability 0.0302055741%
+The red cat sleeps.
+	1.) english:  probability 99.9999999958%
+	2.) french:  probability 0.0000000042%
+	3.) italian:  probability 0.0000000000%
+	4.) german:  probability 0.0000000000%
+	5.) portuguese:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Der rote Katzeschlaf.
+	1.) german:  probability 100.0000000000%
+	2.) english:  probability 0.0000000000%
+	3.) portuguese:  probability 0.0000000000%
+	4.) italian:  probability 0.0000000000%
+	5.) french:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Les sommeils rouges de chat.
+	1.) french:  probability 99.9999998937%
+	2.) german:  probability 0.0000001028%
+	3.) portuguese:  probability 0.0000000035%
+	4.) english:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+I sonni rossi del gatto.
+	1.) italian:  probability 99.9999969516%
+	2.) french:  probability 0.0000030483%
+	3.) portuguese:  probability 0.0000000001%
+	4.) german:  probability 0.0000000000%
+	5.) english:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Os sonos vermelhos do gato.
+	1.) portuguese:  probability 99.9996293247%
+	2.) spanish:  probability 0.0003706707%
+	3.) french:  probability 0.0000000046%
+	4.) english:  probability 0.0000000000%
+	5.) german:  probability 0.0000000000%
+	6.) italian:  probability 0.0000000000%
+Los suenos rojos del gato.
+	1.) spanish:  probability 99.9999996881%
+	2.) portuguese:  probability 0.0000003119%
+	3.) french:  probability 0.0000000000%
+	4.) english:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+All legislative Powers herein granted shall be vested in a Congress.
+	1.) english:  probability 100.0000000000%
+	2.) french:  probability 0.0000000000%
+	3.) german:  probability 0.0000000000%
+	4.) portuguese:  probability 0.0000000000%
+	5.) italian:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Alle in dieser Verfassung verliehene gesetzgebende Gewalt wird dem Kongress.
+	1.) german:  probability 100.0000000000%
+	2.) english:  probability 0.0000000000%
+	3.) french:  probability 0.0000000000%
+	4.) italian:  probability 0.0000000000%
+	5.) portuguese:  probability 0.0000000000%
+	6.) spanish:  probability 0.0000000000%
+Tous les pouvoirs legislatifs accordes par cette Constitution seront attribues a un Congres.
+	1.) french:  probability 100.0000000000%
+	2.) portuguese:  probability 0.0000000000%
+	3.) english:  probability 0.0000000000%
+	4.) italian:  probability 0.0000000000%
+	5.) spanish:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Tutti i poteri legislativi quivi concessi sono conferiti al Congresso.
+	1.) italian:  probability 100.0000000000%
+	2.) portuguese:  probability 0.0000000000%
+	3.) french:  probability 0.0000000000%
+	4.) spanish:  probability 0.0000000000%
+	5.) english:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Todos os poderes legislativos conferidos por esta Constituicao serao confiados a um Congresso.
+	1.) portuguese:  probability 100.0000000000%
+	2.) spanish:  probability 0.0000000000%
+	3.) italian:  probability 0.0000000000%
+	4.) french:  probability 0.0000000000%
+	5.) english:  probability 0.0000000000%
+	6.) german:  probability 0.0000000000%
+Todas las Facultades legislativas otorgadas en la presente seran conferidas a un Congreso.
+	1.) spanish:  probability 99.9894175452%
+	2.) portuguese:  probability 0.0105824548%
+	3.) italian:  probability 0.0000000000%
+	4.) french:  probability 0.0000000000%
+	5.) german:  probability 0.0000000000%
+	6.) english:  probability 0.0000000000%

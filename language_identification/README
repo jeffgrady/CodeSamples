@@ -1,0 +1,79 @@
+
+# Language Identification
+
+- Email:  jeff.grady@xxxxxxx.com
+- Date:   2010/10/27
+
+### Manifest:
+
+* README:  this file
+
+* asst6.py:  Python code for Assignment 6
+
+  To execute, simply type:
+
+  $ ./asst6.py
+
+  You may need to do this first:
+
+  $ chmod 755 asst6.py
+
+* asst6-output.txt:
+
+  Redirection of ./asst6.py to a file.  You can see in the output that
+  it does the one char look-ahead with test-data.txt and
+  test-data-extension.txt, then the two char look-ahead with each test
+  file.
+
+* {english,german,french,italian,portuguese,spanish}.txt:
+
+  Given corpuses for learning each language.
+
+* extension_{english,german,french,italian,portuguese,spanish}.txt:
+
+  Extended corpuses for learning each language downloaded from 
+  Project Gutenberg.  They are not in ASCII but UTF-8 and are instead
+  converted on the fly during learning.  See the code for details.
+
+  Note:  The conversion code had some problems on Python 2.3.5 on OS X 
+         10.4 (not sure of the exact version - it's old), but it has
+         been tested on Python 2.5.1 on OS X 10.5 and on Python 2.5.2
+         on nice.harvard.edu.
+
+* test-data.txt:
+
+  Supplied test data for the assignment.
+
+* test-data-extension.txt:
+
+  Extra test data crafted by me consisting of "A cat." and "The red
+  cat sleeps." in each language as translated by Babelfish (not
+  necessarily a correct translation), plus part of the first line of
+  the US Constitution in each language.
+
+
+### Performance:
+
+The test-data.txt phrase, "Eu te amo." is consistently
+mischaracterized as French instead of Portuguese, even with the two
+character look-ahead.  I believe the input is too short to
+appropriately analyze given the character similarity.  I believe it
+would be entirely possible to assess if our approach was word-based
+as opposed to character-based, though this would create a very large
+matrix.
+
+All other phrases and sentences from test-data.txt seem to be
+correctly characterized.
+
+I did manage to find a sentence that was not translated properly by
+the one look-ahead but correctly by the two look-ahead:
+
+Un chat.  ("A cat." in English)
+
+The original one look-ahead thought it was German, the two look-ahead
+correctly identified it as French.
+
+Note that sometimes the two look-ahead sometimes did worse, especially
+on the "A cat." phrases.  In general, short inputs seem unreliable.
+More input data leads to a more specific determination of the
+language.
