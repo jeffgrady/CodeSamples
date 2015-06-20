@@ -107,7 +107,8 @@ List<T>::List(const List &list) :
   *this = list;
 }
 
-// Destructor.  For now, an empty method.
+// Destructor.  Clears what List has allocated for itself.
+// All references that were stored in the List are now invalid.
 template <class T>
 List<T>::~List()
 {
