@@ -156,6 +156,18 @@ void test_stream_operator()
   std::cout << test << std::endl;
 }
 
+// Test that "large" lists work.
+void test_big_list() {
+  List<int> test;
+  int size = 1000000;
+  for (int i = 0; i < size; i++) {
+    test.insertAtFront(i);
+  }
+  assert(test.getLength() == size);
+  test.clear();
+  assert(test.getLength() == 0);
+}
+
 int main(int argc, char *argv[])
 {
   test_clear();
@@ -165,6 +177,7 @@ int main(int argc, char *argv[])
   test_insertAtEnd_and_deleteAtEnd();
   test_findNode();
   test_stream_operator();
+  test_big_list();
 
   return 0;
 }

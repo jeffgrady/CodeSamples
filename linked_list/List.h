@@ -111,6 +111,9 @@ List<T>::List(const List &list) :
 template <class T>
 List<T>::~List()
 {
+  clear();
+  delete head;
+  delete tail;
 }
 
 // clear() erases the contents of the list.  It takes no arguments and
